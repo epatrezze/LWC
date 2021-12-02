@@ -1,5 +1,7 @@
 # LWC
 
+
+```
 // miscMultipleTemplates.js
 
 import { LightningElement } from 'lwc';
@@ -25,3 +27,6 @@ export default class MiscMultipleTemplates extends LightningElement {
             this.templateOne = true; 
     }
 } 
+
+```
+
